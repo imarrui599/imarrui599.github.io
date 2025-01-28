@@ -5,19 +5,19 @@ Esta página web está dedicada a promover uno de los Objetivos de Desarrollo So
 Estructura de la web
 Inicio:
 
-Bienvenida y breve introducción sobre la importancia de la educación de calidad.
+Bienvenida y breve introducción sobre la importancia del cambio climatico.
 Imagen destacada representativa del objetivo.
 Sobre el ODS:
 
-Descripción detallada del objetivo "Educación de Calidad".
+Descripción detallada del objetivo "Cambio climatico".
 Estadísticas y datos relevantes.
 Recursos:
 
 Listado de artículos, videos y documentos que proporcionan información adicional y recursos educativos.
-Enlaces a organizaciones y proyectos que apoyan la educación de calidad.
+Enlaces a organizaciones y proyectos que apoyan el cambio climatico.
 Proyectos:
 
-Información sobre proyectos actuales y futuros orientados a mejorar la educación.
+Información sobre proyectos actuales y futuros orientados a mejorar para el planeta.
 Historias de éxito y estudios de caso.
 Contacto:
 
