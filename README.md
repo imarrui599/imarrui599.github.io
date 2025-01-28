@@ -1,6 +1,6 @@
 # imarrui599.github.io
 
-Esta página web está dedicada a promover uno de los Objetivos de Desarrollo Sostenible (ODS) establecidos por las Naciones Unidas. El objetivo seleccionado es "Educación de Calidad". La web estará dividida en varias secciones para proporcionar información y recursos sobre este objetivo específico.
+Esta página web está dedicada a promover uno de los Objetivos de Desarrollo Sostenible (ODS) establecidos por las Naciones Unidas. El objetivo seleccionado es "Cambio Climatico". La web estará dividida en varias secciones para proporcionar información y recursos sobre este objetivo específico.
 
 Estructura de la web
 Inicio:
